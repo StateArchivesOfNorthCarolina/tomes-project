@@ -1,3 +1,3 @@
 # TOMES Project
 
-Project documentation repository.
+Project information and document repository.
